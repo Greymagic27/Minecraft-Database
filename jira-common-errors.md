@@ -21,6 +21,8 @@
 
 - com.mojang.datafixers.functions.Comp.one - [MC-259627](https://bugs.mojang.com/browse/MC-259627)
 
+- Various JVM crashes in jvm.dll - [MC-230527](https://bugs.mojang.com/browse/MC-230527)
+
 ## Bug Reports
 - Something went wrong - [MCL-19840](https://bugs.mojang.com/browse/MCL-19840?focusedCommentId=1181471&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-1181471)
 
