@@ -15,7 +15,7 @@ To do this, find the .tlauncher folder and delete it. Then delete the .Minecraft
 
 ### Pirating Minecraft is thievery. Don’t do it. If you wish to play Minecraft for free legally, visit <https://classic.minecraft.net/> or <https://www.minecraft.net/en-us/edition/pi>
 
-__Watch for more in depth information__:
+**Watch for more in depth information:**
 
 - https://www.youtube.com/watch?v=SBTH9n6lz9o
 
