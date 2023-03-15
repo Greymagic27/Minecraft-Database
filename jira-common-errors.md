@@ -31,3 +31,5 @@
 - Waiting on install (MS Store Launcher) - [MCL-21596](https://bugs.mojang.com/browse/MCL-21596)
 
 - Failed to download file - [MCL-23025](https://bugs.mojang.com/browse/MCL-23025)
+
+- Bedrock stuck on 66% - [MCPE-168284](https://bugs.mojang.com/browse/MCPE-168284)
