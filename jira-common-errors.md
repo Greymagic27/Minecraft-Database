@@ -13,8 +13,6 @@
 
 - glfw.dll in org.lwjgl.system.JNI.invokePPV - [MC-254799](https://bugs.mojang.com/browse/MC-254799)
 
-- atio6axx.dll in org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V - [MC-237106](https://bugs.mojang.com/browse/MC-237106)
-
 - com.mojang.datafixers.functions.PointFreeRule$SortProj.doRewrite - [MC-260405](https://bugs.mojang.com/browse/MC-260405)
 
 - com.mojang.datafixers.types.templates.List.equals (Ljava/lang/Object;)Z - [MC-259555](https://bugs.mojang.com/browse/MC-259555)
@@ -24,8 +22,6 @@
 - Various JVM crashes in jvm.dll - [MC-230527](https://bugs.mojang.com/browse/MC-230527)
 
 ## Bug Reports
-- Something went wrong - [MCL-19840](https://bugs.mojang.com/browse/MCL-19840?focusedCommentId=1181471&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-1181471)
-
 - All textures are blank in older versions of Minecraft - [MCL-22662](https://bugs.mojang.com/browse/MCL-22662)
 
 - Waiting on install (MS Store Launcher) - [MCL-21596](https://bugs.mojang.com/browse/MCL-21596)
@@ -33,3 +29,6 @@
 - Failed to download file - [MCL-23025](https://bugs.mojang.com/browse/MCL-23025)
 
 - Bedrock stuck on 66% - [MCPE-168284](https://bugs.mojang.com/browse/MCPE-168284)
+
+## Possible non-issue:
+- atio6axx.dll in org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V - [MC-237106](https://bugs.mojang.com/browse/MC-237106) (Created: 2021 - Last Updated: 2022)
