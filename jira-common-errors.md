@@ -28,7 +28,7 @@
 
 - Failed to download file - [MCL-23025](https://bugs.mojang.com/browse/MCL-23025)
 
-## Possible non-issue:
+## Possible Fixed Issues:
 - atio6axx.dll in org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V - [MC-237106](https://bugs.mojang.com/browse/MC-237106) (Created: 2021 - Last Updated: 2022)
 
 - Bedrock stuck on 66% - [MCPE-168284](https://bugs.mojang.com/browse/MCPE-168284) - Fixed as of 1.19.71
