@@ -19,6 +19,8 @@
 
 - com.mojang.datafixers.functions.Comp.one - [MC-259627](https://bugs.mojang.com/browse/MC-259627)
 
+- atio6axx.dll in org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V - [MC-237106](https://bugs.mojang.com/browse/MC-237106)
+
 - Various JVM crashes in jvm.dll - [MC-230527](https://bugs.mojang.com/browse/MC-230527)
 
 ## Bug Reports
