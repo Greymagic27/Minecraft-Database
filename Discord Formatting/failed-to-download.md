@@ -1,6 +1,8 @@
 **Potential Workaround (Windows 10/11):**
 
-First, try running as Administrator. If that doesn't work, try deleting the .minecraft folder. Sometimes that just kinda fixes it. 
+Things to try first:
+ * Delete .minecraft folder: https://minecrafthopper.net/help/finding-minecraft-data-folder/
+ * Change DNS: https://1.1.1.1/dns/#setup-instructions
 
 **__For Missing Java__**:
 
@@ -30,7 +32,9 @@ Wow! You did it! Now, do that for every file it throws an error for. I know, it'
 
 **__Potential Workaround (Mac OS):__**
 
-First, try running as Administrator. If that doesn't work, try deleting the .minecraft folder. Sometimes that just kinda fixes it.
+Things to try first:
+ * Delete .minecraft folder: [https://minecrafthopper.net/help/finding-minecraft-data-folder/]
+ * Change DNS: [https://1.1.1.1/dns/#setup-instructions]
 
 **__For Missing Java__**:
 
