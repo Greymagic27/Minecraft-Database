@@ -3,7 +3,7 @@
 First, to clear things up, "PVP clients" don't do anything special. In simple terms, they are Forge loaders that don't let you load more mods, and take your information. All of the launchers below break the EULA simply by selling capes. We will not provide support for any of the launchers listed below.
 
 ### Lunar
-Lunar Client is another launcher for Minecraft that should never be used. One of the most important reasons for this is their login security. Lunar client obfuscates your log files, meaning if you ever run into an issue, we can't help you at all. Lunar is also literally is capable of breaking your entire Minecraft installation, and trust me, it does. You can of course get all the exact same mods without the down sides. The only reason Lunar has gained popularity is because content creators are pain ungodly amounts of money to advertise their "client".
+Lunar Client is another launcher for Minecraft that should never be used. They obfuscate your log files, meaning if you ever run into an issue, we can't help you at all. Lunar is also literally is capable of breaking your entire Minecraft installation, and trust me, it does. You can of course get all the exact same mods without the down sides. The only reason Lunar has gained popularity is because content creators are pain ungodly amounts of money to advertise their "client".
 
 Lunar Client is an excuse for a launcher, that takes your information and tricks you into thinking you're getting more FPS by just using Optifine.
 
