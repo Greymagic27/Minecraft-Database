@@ -18,7 +18,7 @@ Ignoring their absolutely hideous UI, their client basically has no rules on wha
 Badlion isn't even a client, its just bloatware. It will steal your information, and slow down your device. You really should stop.
 
 ## Forge/Fabric
-Forge or Fabric allows you to install any mod you want, for free. There are thousands of mods listed on [Modrinth](https://modrinth.com/) and [CurseForge](https://beta.curseforge.com/minecraft/search?page=1&class=mc-mods).
+Forge or Fabric allows you to install any mod you want, for free. There are thousands of mods listed on [Modrinth](https://modrinth.com/).
 
 If you're on the latest version, use Fabric with this tutorial: https://www.youtube.com/watch?v=pSL2HtfhhhE
 
