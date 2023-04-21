@@ -18,7 +18,7 @@ Ignoring their absolutely hideous UI, their client basically has no rules on wha
 Badlion isn't even a client, its just bloatware. It will steal your information, and slow down your device. You really should stop.
 
 
-**Side note**
+**Sidenote**
 
 Both lunar and badlion run at the kernel level on your PC, meaning they have root permission (administrator permission) and can access anything on your PC whilst running. This is what's known as a rootkit and should be uninstalled immediately, as well as running a malware scan with MalwareBytes.
 
