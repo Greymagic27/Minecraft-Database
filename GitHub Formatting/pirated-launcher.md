@@ -1,7 +1,7 @@
 ## All “cracked”, or “non premium” launchers are illegal, and will steal your information.
 
 By using one, you are theoretically subject to arrest. 
-A few common examples of this is TLauncher, SKLauncher, and Salwyrr’s. Please note that this list is NOT exhaustive. 
+A few common examples of this is TLauncher, SKLauncher, CMClient, and Salwyrr’s. Please note that this list is NOT exhaustive. 
 
 It is required that you remove these launchers. Below is how to remove TLauncher specifically. Other launchers you can most likely uninstall with the windows uninstall tool. Make sure you run a virus scan with a tool like MalwareBytes.
 
