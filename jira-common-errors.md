@@ -29,3 +29,5 @@
 - Waiting on install (MS Store Launcher) - [MCL-21596](https://bugs.mojang.com/browse/MCL-21596)
 
 - Failed to download file - [MCL-23025](https://bugs.mojang.com/browse/MCL-23025)
+
+- Minizip error while extracting: -111 - [MCL-23411](https://bugs.mojang.com/browse/MCL-23411)
