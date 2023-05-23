@@ -9,8 +9,6 @@ Lunar Client is another launcher for Minecraft that should never be used. One of
 
 Lunar Client is an excuse for a launcher, that takes your information and tricks you into thinking you're getting more FPS by just using Optifine.
 
-https://media.discordapp.net/attachments/775200266622074890/1090622931215863888/unknown.png
-
 **Badlion**
 
 Ignoring their absolutely hideous UI, their client basically has no rules on what they can do and take from you. Their Privacy Policy says that they have the rights to all your information, and they read from files that are extremally sensitive. If you are using this client it is highly recommended you change your password after uninstalling. Other than that, it's a Forge launcher. Everything can be done when just using classic forge, which is totally safe. Every creator using the client is being paid way too much money, and it gets revoked the instant the creator uses any other launcher. Their Anti-Cheat runs in the background 24/7, slowing your computer down always. It also has full control over your device.
