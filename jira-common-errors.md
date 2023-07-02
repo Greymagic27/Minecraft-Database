@@ -1,6 +1,8 @@
 ## Java Virtual Machine Crashes
 - atio6axx.dll in JNI.invokePPPP - [MC-228425](https://bugs.mojang.com/browse/MC-228425)
 
+- atio6axx.dll in org.lwjgl.opengl.GL15C.nglMapBuffer(II)J+0 - [MC-263991](https://bugs.mojang.com/browse/MC-263991)
+
 - C 0x0000000000000000 in JNI.invokePPPP - [MC-229182](https://bugs.mojang.com/browse/MC-229182)
 
 - nvwgf2umx.dll in JNI.invokePV - [MC-228872](https://bugs.mojang.com/browse/MC-228872)
