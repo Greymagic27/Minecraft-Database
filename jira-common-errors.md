@@ -1,5 +1,7 @@
 ## Java Virtual Machine Crashes
 - atio6axx.dll in JNI.invokePPPP - [MC-228425](https://bugs.mojang.com/browse/MC-228425)
+  
+- atio6axx.dll in org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V - [MC-237106](https://bugs.mojang.com/browse/MC-237106)
 
 - atio6axx.dll in org.lwjgl.opengl.GL15C.nglMapBuffer(II)J+0 - [MC-263991](https://bugs.mojang.com/browse/MC-263991)
 
@@ -20,8 +22,6 @@
 - com.mojang.datafixers.types.templates.List.equals (Ljava/lang/Object;)Z - [MC-259555](https://bugs.mojang.com/browse/MC-259555)
 
 - com.mojang.datafixers.functions.Comp.one - [MC-259627](https://bugs.mojang.com/browse/MC-259627)
-
-- atio6axx.dll in org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V - [MC-237106](https://bugs.mojang.com/browse/MC-237106)
 
 - Various JVM crashes in jvm.dll - [MC-230527](https://bugs.mojang.com/browse/MC-230527)
 
