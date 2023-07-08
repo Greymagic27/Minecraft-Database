@@ -25,9 +25,9 @@
 
 - Various JVM crashes in jvm.dll - [MC-230527](https://bugs.mojang.com/browse/MC-230527)
 
-- Minecraft crashes with latest NVIDIA - Linux (535.43.02) drivers when reloading chunks in the End (libc.so.6+0xc4a60 in org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V ) - [MC-263184](https://bugs.mojang.com/browse/MC-263184)
+- libc.so.6+0xc4a60 in org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V - [MC-263184](https://bugs.mojang.com/browse/MC-263184)
 
-- JVM crash in igxelpicd64.dll at org.lwjgl.opengl.GL11C.nglTexImage2D(IIIIIIIIJ)V - [MC-263719](https://bugs.mojang.com/browse/MC-263719)
+- igxelpicd64.dll at org.lwjgl.opengl.GL11C.nglTexImage2D(IIIIIIIIJ)V - [MC-263719](https://bugs.mojang.com/browse/MC-263719)
 
 ## Bug Reports
 - All textures are blank in older versions of Minecraft - [MCL-22662](https://bugs.mojang.com/browse/MCL-22662)
