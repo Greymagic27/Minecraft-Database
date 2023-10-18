@@ -13,6 +13,8 @@
 
 - jvm.dll crash in jdk.internal.loader.NativeLibraries.load - [MC-265571](https://bugs.mojang.com/browse/MC-265571)
 
+- C 0x00007ff80c5d9780 JVM crash in jdk.internal.loader.NativeLibraries.load - [MC-265877](https://bugs.mojang.com/browse/MC-265877)
+
 ## Bug Reports
 - All textures are blank in older versions of Minecraft - [MCL-22662](https://bugs.mojang.com/browse/MCL-22662)
 
