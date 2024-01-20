@@ -9,9 +9,9 @@
 
 - nvoglv64.dll in org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V - [MC-261763](https://bugs.mojang.com/browse/MC-261763)
 
-- jvm.dll in jdk.internal.loader.NativeLibraries.load - [MC-265571](https://bugs.mojang.com/browse/MC-265571) - **AR for more info**
+- jvm.dll in jdk.internal.loader.NativeLibraries.load - [MC-265571](https://bugs.mojang.com/browse/MC-265571) - **(AR for more info)**
 
-- C 0x00007ff80c5d9780 in jdk.internal.loader.NativeLibraries.load - [MC-265877](https://bugs.mojang.com/browse/MC-265877) - **AR with possible solution**
+- C 0x00007ff80c5d9780 in jdk.internal.loader.NativeLibraries.load - [MC-265877](https://bugs.mojang.com/browse/MC-265877) - **(AR with possible solution)**
 
 ## Bug Reports
 - All textures are blank in older versions of Minecraft - [MCL-22662](https://bugs.mojang.com/browse/MCL-22662)
