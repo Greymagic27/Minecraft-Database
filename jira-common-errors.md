@@ -3,22 +3,18 @@
 
 - glfw.dll in org.lwjgl.system.JNI.invokePPV - [MC-254799](https://bugs.mojang.com/browse/MC-254799)
 
-- Various JVM crashes in jvm.dll - [MC-230527](https://bugs.mojang.com/browse/MC-230527) **(AR - May not be an issue in latest release/snapshot)**
-
 - libc.so.6+0xc4a60 in org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V - [MC-263184](https://bugs.mojang.com/browse/MC-263184)
 
-- igxelpicd64.dll at org.lwjgl.opengl.GL11C.nglTexImage2D(IIIIIIIIJ)V - [MC-263719](https://bugs.mojang.com/browse/MC-263719)
+- igxelpicd64.dll in org.lwjgl.opengl.GL11C.nglTexImage2D(IIIIIIIIJ)V - [MC-263719](https://bugs.mojang.com/browse/MC-263719)
 
 - nvoglv64.dll in org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V - [MC-261763](https://bugs.mojang.com/browse/MC-261763)
 
-- jvm.dll crash in jdk.internal.loader.NativeLibraries.load - [MC-265571](https://bugs.mojang.com/browse/MC-265571)
+- jvm.dll in jdk.internal.loader.NativeLibraries.load - [MC-265571](https://bugs.mojang.com/browse/MC-265571) - **AR for more info**
 
-- C 0x00007ff80c5d9780 JVM crash in jdk.internal.loader.NativeLibraries.load - [MC-265877](https://bugs.mojang.com/browse/MC-265877)
+- C 0x00007ff80c5d9780 in jdk.internal.loader.NativeLibraries.load - [MC-265877](https://bugs.mojang.com/browse/MC-265877) - **AR with possible solution**
 
 ## Bug Reports
 - All textures are blank in older versions of Minecraft - [MCL-22662](https://bugs.mojang.com/browse/MCL-22662)
-
-- Waiting on install (MS Store Launcher) - [MCL-21596](https://bugs.mojang.com/browse/MCL-21596)
 
 - Failed to download file - [MCL-23025](https://bugs.mojang.com/browse/MCL-23025)
 
