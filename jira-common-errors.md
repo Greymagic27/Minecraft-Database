@@ -1,6 +1,4 @@
 ## Java Virtual Machine Crashes
-- atio6axx.dll in org.lwjgl.opengl.GL15C.nglMapBuffer(II)J+0 - [MC-263991](https://bugs.mojang.com/browse/MC-263991)
-
 - glfw.dll in org.lwjgl.system.JNI.invokePPV - [MC-254799](https://bugs.mojang.com/browse/MC-254799)
 
 - libc.so.6+0xc4a60 in org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V - [MC-263184](https://bugs.mojang.com/browse/MC-263184)
@@ -9,9 +7,9 @@
 
 - nvoglv64.dll in org.lwjgl.opengl.GL11C.nglDrawElements(IIIJ)V - [MC-261763](https://bugs.mojang.com/browse/MC-261763)
 
-- jvm.dll in jdk.internal.loader.NativeLibraries.load - [MC-265571](https://bugs.mojang.com/browse/MC-265571) - **(AR for more info)**
+- jvm.dll in jdk.internal.loader.NativeLibraries.load - [MC-265571](https://bugs.mojang.com/browse/MC-265571)
 
-- C 0x00007ff80c5d9780 in jdk.internal.loader.NativeLibraries.load - [MC-265877](https://bugs.mojang.com/browse/MC-265877) - **(AR with possible solution)**
+- C 0x00007ff80c5d9780 in jdk.internal.loader.NativeLibraries.load - [MC-265877](https://bugs.mojang.com/browse/MC-265877)
 
 - nvoglv.64.dll in org.lwjgl.system.JNI.invokePPPP(IIJJJJ)J+0 - [MCL-24065](https://bugs.mojang.com/browse/MCL-24065)
 
