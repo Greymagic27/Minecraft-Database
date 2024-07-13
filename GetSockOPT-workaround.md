@@ -14,8 +14,11 @@ https://support.microsoft.com/en-us/windows/turn-microsoft-defender-firewall-on-
 - In the new window click the Brows button.
 - Navigate to your Minecraft installation folder:
   - Depending on the Minecraft launcher you use, the path you need to enter may vary.
-    - For the legacy launcher (Grey creeper icon): C:\Program Files (x86)\Minecraft Launcher\runtime\java-runtime-delta\windows-x64\java-runtime-delta\bin
-    - For the MS store launcher (Green creeper icon): C:\Users\User\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\java-runtime-delta\windows-x64\java-runtime-delta\bin
+    - For the legacy launcher (Grey creeper icon):
+      - `C:\Program Files (x86)\Minecraft Launcher\runtime\java-runtime-delta\windows-x64\java-runtime-delta\bin`
+    - For the MS store launcher (Green creeper icon):
+      - `C:\Users\User\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\java-runtime-delta\windows-x64\java-runtime-delta\bin`
+        - Note the Microsoft package name can change depending on launcher updates
 
 - Inside bin you should find a file exe called javaw.exe(or javaw if you don't show file extensions).
 - Select that file and press the Open button and then press the Add button.
